@@ -5,6 +5,11 @@ title: "Paid inquiry: content repurposing sprint"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-content-repurposing-sprint.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/content-repurposing-sprint-starter/inquiry.html
+
 ## Buyer Request
 
 - Source content URL or notes:
