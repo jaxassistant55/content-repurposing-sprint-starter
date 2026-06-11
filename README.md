@@ -6,6 +6,7 @@ This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/content-repurposing-sprint.html
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-content-repurposing-sprint.html
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/content-repurposing-sprint-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/content-repurposing-sprint-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/content-repurposing-sprint-starter/issues/1
